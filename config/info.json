@@ -1,0 +1,15 @@
+{
+  "keyboard_name": "Ploopy Adept Trackball",
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        { "label": "Top Left",    "x": 0,   "y": 0,   "w": 1.5 },
+        { "label": "Top Middle L","x": 1.6, "y": 0,   "w": 1   },
+        { "label": "Top Middle R","x": 2.7, "y": 0,   "w": 1   },
+        { "label": "Top Right",   "x": 3.8, "y": 0,   "w": 1.5 },
+        { "label": "Bottom Left", "x": 0.5, "y": 2.2, "w": 2   },
+        { "label": "Bottom Right","x": 2.8, "y": 2.2, "w": 2   }
+      ]
+    }
+  }
+}

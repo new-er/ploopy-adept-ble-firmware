@@ -3,12 +3,12 @@
   "layouts": {
     "LAYOUT": {
       "layout": [
-        { "label": "Top Left",     "x": 0,   "y": 0,    "row": 0, "col": 0 },
-        { "label": "Top Mid L",    "x": 1,   "y": 0,    "row": 0, "col": 1 },
-        { "label": "Top Mid R",    "x": 2,   "y": 0,    "row": 0, "col": 2 },
-        { "label": "Top Right",    "x": 3,   "y": 0,    "row": 0, "col": 3 },
-        { "label": "Bottom Left",  "x": 0,   "y": 1.25, "row": 0, "col": 4 },
-        { "label": "Bottom Right", "x": 2.5, "y": 1.25, "row": 0, "col": 5 }
+        { "label": "Top Left",     "x": 0.5, "y": 0,    "w": 1,    "h": 0.75, "row": 0, "col": 0 },
+        { "label": "Top Mid L",    "x": 1.6, "y": 0,    "w": 1,    "h": 0.75, "row": 0, "col": 1 },
+        { "label": "Top Mid R",    "x": 2.7, "y": 0,    "w": 1,    "h": 0.75, "row": 0, "col": 2 },
+        { "label": "Top Right",    "x": 3.8, "y": 0,    "w": 1,    "h": 0.75, "row": 0, "col": 3 },
+        { "label": "Bottom Left",  "x": 0,   "y": 1,    "w": 1.25, "h": 1.5,  "row": 0, "col": 4 },
+        { "label": "Bottom Right", "x": 4.05,"y": 1,    "w": 1.25, "h": 1.5,  "row": 0, "col": 5 }
       ]
     }
   }

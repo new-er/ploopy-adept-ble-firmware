@@ -63,14 +63,14 @@
         scroll_tap_layer {
             display-name = "Scroll-Momentary";
             bindings = <
-&trans  &trans  &mto 5 2  &trans  &to SCRLH  &trans
+&trans  &trans  &to 2  &trans  &to SCRLH  &trans
             >;
         };
 
         scroll_hold_layer {
             display-name = "Scroll-Keep";
             bindings = <
-&trans  &trans  &trans  &to DEFAULT  &trans  &trans
+&trans  &trans  &trans  &to DEFAULT  &trans  &to 0
             >;
         };
 

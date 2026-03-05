@@ -63,7 +63,7 @@
         scroll_tap_layer {
             display-name = "Scroll-Momentary";
             bindings = <
-&trans  &trans  &to SCRLH  &trans  &to SCRLH  &trans
+&trans  &trans  &mto 5 2  &trans  &to SCRLH  &trans
             >;
         };
 
